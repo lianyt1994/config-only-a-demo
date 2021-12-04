@@ -4,11 +4,7 @@ spring:
     username: root
     password: root
     driver-class-name: com.mysql.cj.jdbc.Driver
-
-mybatis:
-  typeAliasesPackage: com.xdd.entity
-  mapperLocations: classpath:mapper/*.xml
-
+    
 user:
   id: 2
   name: 3
