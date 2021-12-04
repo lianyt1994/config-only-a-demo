@@ -9,7 +9,7 @@ mybatis:
   typeAliasesPackage: com.xdd.entity
   mapperLocations: classpath:mapper/*.xml
 
-AdUser:
+user:
   id: 2
   name: 3
   feature: 4
