@@ -6,6 +6,6 @@ spring:
     driver-class-name: com.mysql.cj.jdbc.Driver
     
 user:
-  id: 20
-  name: 30
-  feature: 40
+  id: 2
+  name: 3
+  feature: 4
